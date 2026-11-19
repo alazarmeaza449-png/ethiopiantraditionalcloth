@@ -1,0 +1,8 @@
+{
+  "name": "Habesha Couture",
+  "description": "Luxury Ethiopian traditional fashion house featuring hand-woven Shemma garments, custom tailoring measurements, dual-currency checkout, and an integrated artisan atelier admin console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
